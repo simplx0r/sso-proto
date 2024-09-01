@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/simplx0r/sso-protofile";
+option go_package = "github.com/simplx0r/sso-proto";
 
 
 
